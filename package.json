@@ -1,0 +1,8 @@
+{
+  "name": "02-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Joinax/02-1.git",
+  "author": "Joinax <fintroll18@gmail.com>",
+  "license": "MIT"
+}
